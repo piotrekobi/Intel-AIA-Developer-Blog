@@ -9,7 +9,7 @@ name: Intel AIA Poland Developers
 description: Intel Artificial Intelligence and Analytics Polish Team Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/aia_logo.png
+avatar: /images/aia_logo.png
 
 #
 # Flags below are optional
