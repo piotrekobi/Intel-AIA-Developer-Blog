@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Our team is working on optimizing the following AI frameworks with Intel hardware in mind:
+-   PaddlePaddle
+-   MXNET
+-   PyTorch Geometric
 
-### More Information
+On this blog we share our achievements and interesting findings.
 
-A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Blog administrator contact:
+[piotr.paturej@intel.com](mailto:piotr.paturej@intel.com)
