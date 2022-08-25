@@ -1,3 +1,3 @@
 # Intel AIA developer blog
 
-## Available at https://curly-winner-3cd7b23a.pages.github.io/
+## Available at https://piotrekobi.github.io/Intel-AIA-Developer-Blog/
