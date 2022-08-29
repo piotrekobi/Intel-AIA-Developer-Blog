@@ -1,3 +1,3 @@
 # Intel AIA developer blog
 
-## Available at https://piotrekobi.github.io/Intel-AIA-Developer-Blog/
+## Available at http://intel-aia-blog.com/
